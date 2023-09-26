@@ -4,7 +4,7 @@
 }
 
 input:focus-visible {
-  outline: 3px solid rgb(136, 217, 238);
+  outline: 4px solid rgb(136, 217, 238);
   border: none;
 }
 
